@@ -1,0 +1,36 @@
+ＣＨＡＮＧＥＬＯＧ
+05-22-2025
+Powerhint: Removed Game hints
+Powerhint: Added SchedPreferSpread
+kernel: switched back to 5.4.286 kernel
+kernel: enabled Multi-Gen LRU
+Vowifi Fixed (thanks to @MIUI_users_r_GAY for the tip) 
+Switched to Lineage Libperfmgr
+Fixed dt2w
+added bypass charging
+added torch light control (thanks to @Omar99a)
+
+05-05-2025
+Switched to Pixel power HAL (thanks to @AntiMiui, @MIUI_users_r_GAY, and @itz_me_jarvis)
+imported Evox A14 powerhint
+Updated thermal (thanks to @tanzilw)
+
+𝟬4-20-𝟮𝟱
+Merge latest device blobs and updates
+Synced to latest source change
+Switch to Sony Dolby (thanks to @itz_me_jarvis)
+VOIP fixed! (thanks to @kknixx) 
+Dovi fixed! 
+
+𝟬𝟯-30-𝟮𝟱
+Merge latest device blobs and updates
+Meme cam now supported (thanks to rv.🫥 pro dev)
+Reverted to stock thermal-normal.conf
+
+
+𝟬𝟯-28-𝟮𝟱
+Initial Build
+Kernel version upstream which is 5.4.289
+KSU Next support
+SusFS 1.5.5
+No meme cam and TWRP (QRP2 issue)
