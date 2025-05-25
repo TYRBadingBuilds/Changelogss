@@ -1,5 +1,5 @@
 ＣＨＡＮＧＥＬＯＧ
-05-24-2025
+05-25-2025
 Switched to Switchoff's kernel (Upstreamed Kernel 5.4.292)
 Vowifi Fixed (thanks to @MIUI_users_r_GAY for the tip) 
 Thermals by Switchoff
