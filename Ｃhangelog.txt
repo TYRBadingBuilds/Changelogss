@@ -1,10 +1,13 @@
 ＣＨＡＮＧＥＬＯＧ
+05-24-2025
+Upstreamed Kernel to 5.4.292
+Vowifi Fixed (thanks to @MIUI_users_r_GAY for the tip) 
+
 05-22-2025
 Powerhint: Removed Game hints
 Powerhint: Added SchedPreferSpread
 kernel: switched back to 5.4.286 kernel
 kernel: enabled Multi-Gen LRU
-Vowifi Fixed (thanks to @MIUI_users_r_GAY for the tip) 
 Switched to Lineage Libperfmgr
 Fixed dt2w
 added bypass charging
