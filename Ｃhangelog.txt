@@ -1,7 +1,8 @@
 ＣＨＡＮＧＥＬＯＧ
 05-24-2025
-Upstreamed Kernel to 5.4.292
+Switched to Switchoff's kernel (Upstreamed Kernel 5.4.292)
 Vowifi Fixed (thanks to @MIUI_users_r_GAY for the tip) 
+Thermals by Switchoff
 
 05-22-2025
 Powerhint: Removed Game hints
