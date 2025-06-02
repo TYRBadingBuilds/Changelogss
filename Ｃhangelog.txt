@@ -1,6 +1,6 @@
 ＣＨＡＮＧＥＬＯＧ
 06-03-2025
-Switched to OSS UI Dolby (Sony libs)
+Switched to OnePlus UI Dolby (Sony libs)
 Switched back to QTI perf stack 
 Synced to latest changes in source 
 
