@@ -1,4 +1,9 @@
 ＣＨＡＮＧＥＬＯＧ
+06-03-2025
+Switched to OSS UI Dolby 
+Switched back to QTI perf stack 
+Synced to latest changes in source 
+
 05-25-2025
 Switched to Switchoff's kernel (Upstreamed Kernel 5.4.292)
 Vowifi Fixed (thanks to @MIUI_users_r_GAY for the tip) 
